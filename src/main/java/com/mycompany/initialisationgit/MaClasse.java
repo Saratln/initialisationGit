@@ -12,5 +12,6 @@ package com.mycompany.initialisationgit;
 public class MaClasse {
     // ceci est la classe de Sara Toulon
     //et maintenant c'est la classe de Jean-Edouard Monnerville
+    // allons créer un conflit
     
 }
